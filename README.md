@@ -1,5 +1,5 @@
 <h1 align="center">Atlas</h1>
-<h3 align="center">Full-stack Dev - Graphics Designer - Nerd</h3>
+<h3 align="center">Full-stack Dev - Graphics Designer - Upcoming Auto Mechanic - Nerd</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atlas7005&show_icons=true&locale=en&layout=compact" alt="Atlas7005" /></p>
 
