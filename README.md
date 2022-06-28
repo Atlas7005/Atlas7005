@@ -4,7 +4,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atlas7005&show_icons=true&locale=en&layout=compact" alt="Atlas7005" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-575%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-575%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,18 +49,17 @@ Sunday       27 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-JavaScript               2 mins              ██████████████████░░░░░░░   72.55% 
-CSS                      0 secs              ██████░░░░░░░░░░░░░░░░░░░   27.45%
+CSS                      0 secs              ████████████████████░░░░░   81.39% 
+HTML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   18.61%
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.0%
+VS Code                  1 min               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-vrcBot                   2 mins              ██████████████████░░░░░░░   72.55% 
-Unknown Project          0 secs              ██████░░░░░░░░░░░░░░░░░░░   27.45%
+Unknown Project          1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.0%
+Windows                  1 min               █████████████████████████   100.0%
 
 ```
 
@@ -81,5 +80,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Atlas7005/Atlas7005/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/06/2022 18:45:47 UTC
+ Last Updated on 28/06/2022 18:54:36 UTC
 <!--END_SECTION:waka-->
