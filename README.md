@@ -1,86 +1,13 @@
-<h1 align="center">Atlas</h1>
-<h3 align="center">Full-stack Dev - Graphics Designer - Upcoming Auto Mechanic - Nerd</h3>
+<h1 align="center">Hi 👋, I'm Atlas</h1>
+<h3 align="center">A passionate full-stack developer, graphic designer, car mechanic and nerd.</h3>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-886%20hrs%2023%20mins-blue)
+- 🔭 I’m currently working on [SpotchBot](https://spotchbot.com/), [Steam Group Database](https://steamgroups.com/)
+- 📫 React me at **atlasdevelopmentbusiness@gmail.com**
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/atlasdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="atlasdev" height="30" width="40" /></a>
+</p>
 
-**🐱 My GitHub Data** 
-
-> 📦 41.8 kB Used in GitHub's Storage 
- > 
-> 🏆 7 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 16 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-🌆 Daytime                85 commits          ████████░░░░░░░░░░░░░░░░░   33.60 % 
-🌃 Evening                95 commits          █████████░░░░░░░░░░░░░░░░   37.55 % 
-🌙 Night                  45 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   39 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Tuesday                  40 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Wednesday                30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Thursday                 14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Friday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Saturday                 50 commits          █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Sunday                   51 commits          █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Copenhagen
-
-💬 Programming Languages: 
-JavaScript               10 hrs 40 mins      █████████████████░░░░░░░░   66.82 % 
-HTML                     3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-CSS                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-
-🔥 Editors: 
-VS Code                  15 hrs 58 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-croogChat                9 hrs 43 mins       ███████████████░░░░░░░░░░   60.88 % 
-oneonone                 4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-f1nnBot                  1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-dlEr                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-
-💻 Operating System: 
-Linux                    9 hrs 43 mins       ███████████████░░░░░░░░░░   60.88 % 
-Windows                  6 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.12 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               14 repos            ████████████░░░░░░░░░░░░░   46.67 % 
-HTML                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Lua                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-EJS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Atlas7005/Atlas7005/master/assets/bar_graph.png)
-
-
- Last Updated on 16/03/2023 18:42:13 UTC
-<!--END_SECTION:waka-->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
