@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atlas</h1>
-<h3 align="center">A passionate full-stack developer, graphic designer, car mechanic and nerd.</h3>
+<h3 align="center">A passionate full-stack developer, graphic designer and nerd.</h3>
 
 - 🔭 I’m currently working on [SpotchBot](https://spotchbot.com/), [Steam Group Database](https://steamgroups.com/)
 - 📫 Reach me at **atlasdevelopmentbusiness@gmail.com** or **atlas@spotchbot.com**
