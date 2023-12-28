@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer, graphic designer and nerd.</h3>
 
 - 🔭 I’m currently working on [SpotchBot](https://spotchbot.com/)
-- 📫 Reach me at **atlasdevelopmentbusiness@gmail.com** or **atlas@spotchbot.com**
+- 📫 Reach me at **atlas@atlasdev.men** or **atlas@spotchbot.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
